@@ -1,7 +1,8 @@
 {
-  "features": 1,
-  "downloadUrl": "asdasdasdasd.apk",
-    "featuresa": 1,
-  "downloadUrls": "asdasdasdasd.apk",
-    "featuresd": 1
+  "appConfig": [
+    {
+      "features": 1,
+      "downloadUrl": "asdasdasdasd.apk"
+    }
+  ]
 }

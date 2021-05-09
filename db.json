@@ -1,30 +1,4 @@
 {
-  "features": [
-    {
-      "feature_id": "1",
-      "name": "Mobile Phone",
-      "options": [
-        {
-          "name": "Samsung S21",
-          "icon": "https://images.samsung.com/africa_en/smartphones/galaxy-s21/buy/galaxy-s21-phantom-violet.png",
-          "id": "1"
-        },
-        {
-          "name": "One Plus 9",
-          "icon": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9/Astralblack_2080a-min_euna.png",
-          "id": "2"
-        },
-        {
-          "name": "Pixel 5",
-          "icon": "https://images-na.ssl-images-amazon.com/images/I/81AqwYyZjzL._AC_SL1500_.jpg",
-          "id": "3"
-        },
-        {
-          "name": "LG G8",
-          "icon": "https://www.gizmochina.com/wp-content/uploads/2019/08/Lg-G8-ThinQ-468x600.png",
-          "id": "4"
-        }
-      ]
-    }
-  ]
+  "features": 1,
+  "downloadUrl": "asdasdasdasd.apk"
 }

@@ -2,7 +2,7 @@
   "appConfig": [
     {
       "versionCode": 2,
-      "downloadUrl": "https://esperio.slack.com/files/U014L4MV35Z/F020X3ZKSS3/app-release.apk"
+      "downloadUrl": "https://cowin-vaccinate-alert-app.s3.ap-south-1.amazonaws.com/cowin-alert-1.1-release.apk"
     }
   ]
 }
